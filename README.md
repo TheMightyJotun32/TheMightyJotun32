@@ -1,6 +1,2 @@
-My name is [REDACTED], but everyone calls me Jotun! You can as well!
-
-
-
-
-That's all.
+Hello!
+My name is Devin, and I hope your day is going well!
